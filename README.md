@@ -142,17 +142,8 @@ Imbalanced-learn (optional)
 
 ```bash
 Credit_Card_detection/
-│
-├── dataset/                  # Raw dataset files
-│   └── creditcard.csv
-│
-├── notebooks/                # Jupyter notebooks
-│   └── credit_card.ipynb
-│
-├── models/                   # Saved trained models (optional)
-│   └── random_forest.pkl
-│
+├── credit_card.ipynb               # Jupyter notebooks
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
-└── venv/                     # Virtual environment (not pushed to GitHub)
+                     # Virtual environment (not pushed to GitHub)
 ```
