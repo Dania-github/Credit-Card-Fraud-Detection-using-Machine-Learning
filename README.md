@@ -8,6 +8,13 @@ Credit card fraud detection is a highly imbalanced classification problem where 
 
 📂 **Dataset**
 
+The dataset used in this project is publicly available on Kaggle:
+
+Credit Card Fraud Detection Dataset  
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Due to file size limitations, the dataset is not included in this repository.
+
 The dataset contains anonymized transaction data including:
 
 PCA-transformed features (V1 – V28)
